@@ -3,6 +3,6 @@ Barbearia da atividade do Alura. Primeira atividade do 2º trimestre na matéria
 
 > Status do projeto: Completo
 
-´´´
+```
 Atividade já entregue
-´´´
+```
