@@ -3,6 +3,7 @@ Barbearia da atividade do Alura. Primeira atividade do 2º trimestre na matéria
 
 > Status do projeto: Completo
 
+Link do projeto na web:
 ```
-Atividade já entregue
+https://fefzy-brazil.github.io/Barbearia-Alura-1-ATV/
 ```
